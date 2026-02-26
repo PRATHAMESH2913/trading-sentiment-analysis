@@ -33,13 +33,13 @@ pip install pandas matplotlib scikit-learn
 Run the script:
 
 ```bash
-python script/analysis.py
+trading_sentiment_analysis.py
 ```
 
 OR open the notebook:
 
 ```
-notebook/analysis.ipynb
+trading_sentiment_analysis.ipynb
 ```
 
 ---
