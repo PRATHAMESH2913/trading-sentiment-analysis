@@ -9,6 +9,6 @@ Merged trading data with sentiment data by date.
 - More trades during Greed
 
 ## Strategies
-1 Reduce size during Fear
-2 Trade more during Greed
-3 Avoid high leverage
+- Reduce size during Fear
+- Trade more during Greed
+- Avoid high leverage
